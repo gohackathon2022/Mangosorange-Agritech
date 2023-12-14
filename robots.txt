@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mangosorangeagritech.in/sitemap-index.xml
+Sitemap: http://mangosorangeagritech.in/sitemap-index-1.xml
+Sitemap: http://mangosorangeagritech.in/sitemap.xml
